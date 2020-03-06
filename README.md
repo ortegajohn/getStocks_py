@@ -2,7 +2,7 @@
 
 ## Instuctions
 
-### Prequests (node.js, python, some qsl db)
+### Prequests (node.js, python, some sql db)
 
 - Clone the repository
 - ```cd getStocks_py ```
